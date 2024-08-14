@@ -57,4 +57,8 @@ The final index was also normalized to ensure comparability across census tracts
 The methodology for creating the Heat Sensitivity Index involves selecting relevant variables that capture economic, social-cultural, and health-related aspects of heat sensitivity. These variables were normalized, grouped into sub-indices, and then averaged to obtain a comprehensive measure of heat sensitivity for each census tract. This index can be used to identify vulnerable areas and guide resource allocation and policy interventions to mitigate the effects of heat stress.
 
 
+![Social_Cultural_Index](https://github.com/user-attachments/assets/0a7a87f0-2dd8-4bba-8569-fb9b83d626f1)
+![Heat_Sensitivity_Index](https://github.com/user-attachments/assets/f01c4224-b5b4-47da-bae4-fdc38540476b)
+![Health_Index](https://github.com/user-attachments/assets/f59b72f8-b4ad-46ec-a2e3-872cc3b2b704)
+![Economic_SVI](https://github.com/user-attachments/assets/a093c46d-4d6c-4100-86a3-ddc660581f1f)
 
